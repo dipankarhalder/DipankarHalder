@@ -8,7 +8,7 @@
 
 <summary>About me:</summary>
 <p>
-  - 🚀 I’m currently working at **BORN GROUP**,<br />
+  - 🚀 I’m currently working at BORN GROUP,<br />
   - 💖 JavaScript (ES6 / ES7 / ES8), React.js, Angular, Webpack, Gulp,<br />
   - 💻 Node.js, MOngoDB, SQL, AWS, GitHub, Heroku<br />
   - ☕ SASS, SCSS, CSS3, Stylus, Materialize, Material UI,<br />
