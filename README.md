@@ -11,8 +11,8 @@
   - 🚀 I’m currently working at BORN GROUP,<br />
   - 💖 JavaScript (ES6 / ES7 / ES8), React.js, Angular, Webpack, Gulp,<br />
   - 💻 Node.js, MongoDB, SQL, AWS, GitHub, Heroku<br />
-  - ☕ CSS3, SASS, SCSS, Stylus, Materialize, Material UI,<br />
-  - 🍫 HTML5, Handlebars, Pug, EJS,
+  - 😍 CSS3, SASS, SCSS, Stylus, Materialize, Material UI,<br />
+  - 😘 HTML5, Handlebars, Pug, EJS,
 </p>
 
 <details>
