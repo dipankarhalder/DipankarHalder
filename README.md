@@ -1,17 +1,23 @@
-### Hi there 👋 I'm Dipankar
+### Hi 👋
 
+I'm Dipankar, a Software Engineer 6+ years of experience in IT industry from India.<br/>I'm passionate about learn new technologies and tools.
 
-<!--
-**DipankarHalder/DipankarHalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+About Me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on BORN Group,
+- 🌱 Mostly I love to work on
+  - JavaScript (ES6 / ES7 / ES8), React.js, Angular, Node, Webpack, Gulp,
+  - SASS, SCSS, CSS3, Stylus, Materialize, Material UI,
+  - HTML5, Handlebars, Pug, EJS,
+  - AWS, GitHub, Heroku etc...
+    <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github Status:
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=555555&bg_color=ffffff">
+<br/><br/>
+
+Languages Used:
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333">
