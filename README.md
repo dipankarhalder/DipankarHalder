@@ -1,6 +1,6 @@
 # Dipankar Halder
 
-a **Software Engineer** 6+ years of experience in IT industry from India.
+**Software Engineer** 6+ years of experience in IT industry from India.
 <br/>
 &nbsp;
 
