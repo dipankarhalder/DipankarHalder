@@ -15,10 +15,10 @@
   - 😘 HTML5, Handlebars, Pug, EJS,
 </p>
 
-<details>
+<img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=555555&bg_color=ffffff">
+<!-- <details>
   <summary>Github status:</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=555555&bg_color=ffffff">
-</details>
+</details>-->
 
 <!-- <details>
   <summary>Languages use:</summary>
