@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=555555&bg_color=ffffff">
 </details> -->
 
-<details>
+<!-- <details>
   <summary>Languages use:</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+</details> -->
