@@ -9,10 +9,11 @@
 <summary>About me:</summary>
 <p>
   - 🚀 I’m currently working at BORN GROUP<br />
-  - 💖 JavaScript (ES6 / ES7 / ES8), React.js, Angular, Vue.js, Svelte<br />
-  - 💖 JSX, Babel, Redux, Redux-Promise, Redux-Thunk, React-Redux<br />
-  - 😊 Webpack, Parcel, Gulp, Grunt<br />
-  - 💻 Node.js, MongoDB, SQL, AWS, GitHub, Heroku<br />
+  - 💖 JavaScript (ES6 / ES7 / ES8), TypeScript, JSX, Babel<br />
+  - 🧡 Next.js, React.js, Angular, Vue.js, Svelte<br />
+  - 💙 Redux, Redux-Promise, Redux-Thunk, React-Redux<br />
+  - 😊 Webpack, Parcel.js, Gulp.js, Grunt<br />
+  - 💚 Node.js, MongoDB, SQL, AWS, GitHub, Heroku<br />
   - 😍 CSS3, SASS, SCSS, Stylus, Less<br />
   - ☘️ Styled-components, Bootstrap, Materialize, Tailwind CSS, Material UI, Semantic UI<br />
   - 😘 HTML5, Handlebars, Pug, EJS, etc...
