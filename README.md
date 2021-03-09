@@ -1,6 +1,6 @@
 # Dipankar Halder
 
-**Software Engineer** 6+ years of experience in IT industry from India.
+**Software Engineer** 6+ years of experience in IT industry from :india:India.
 <br/>
 &nbsp;
 
@@ -8,11 +8,14 @@
 
 <summary>About me:</summary>
 <p>
-  - 🚀 I’m currently working at BORN GROUP,<br />
-  - 💖 JavaScript (ES6 / ES7 / ES8), React.js, Angular, Webpack, Gulp,<br />
+  - 🚀 I’m currently working at BORN GROUP<br />
+  - 💖 JavaScript (ES6 / ES7 / ES8), React.js, Angular, Vue.js, Svelte<br />
+  - 💖 JSX, Babel, Redux, Redux-Promise, Redux-Thunk<br />
+  - 😊 Webpack, Parcel, Gulp, Grunt<br />
   - 💻 Node.js, MongoDB, SQL, AWS, GitHub, Heroku<br />
-  - 😍 CSS3, SASS, SCSS, Stylus, Materialize, Material UI,<br />
-  - 😘 HTML5, Handlebars, Pug, EJS,
+  - 😍 CSS3, SASS, SCSS, Stylus, Less<br />
+  - ☘️ Styled-components, Bootstrap, Materialize, Tailwind CSS, Material UI, Semantic UI<br />
+  - 😘 HTML5, Handlebars, Pug, EJS, etc...
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=555555&bg_color=ffffff">
