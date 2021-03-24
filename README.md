@@ -21,7 +21,7 @@
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 <summary>Github Overview:</summary>
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true">
-<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true">
 
 
