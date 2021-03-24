@@ -20,9 +20,8 @@
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
-<details>
-  <summary>Github Overview:</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true">
-</details>
+<summary>Github Overview:</summary>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true">
+<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true">
+
 
