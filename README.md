@@ -24,7 +24,7 @@
 <br/>
 <summary>Github Overview:</summary>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true"></p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true"></p>
+<p align="left"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true"></p>
 
 
 
