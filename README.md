@@ -9,20 +9,12 @@
 - 👨‍💻 &nbsp; Learning TypeScript and Remix, plus exploring Python.
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-h-72001bb0/).
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
----
-#### Technical Skills:
-- 🧑🏻‍💻 &nbsp; Micro-frontend Application.
-- 🧑🏻‍💻 &nbsp; Web Application.
-- 🧑🏻‍💻 &nbsp; Mobile Application.
-- 🧑🏻‍💻 &nbsp; Application Development.
 
-- 📌 &nbsp; JavaScript & TypeScript,
-- 📌 &nbsp; React.js (Next.js / Remix),
-- 📌 &nbsp; Redux, Redux-toolkit, React Query, 
-- 📌 &nbsp; MongoDB & SQL,
-- 📌 &nbsp; Node.js, Nest.js,
-- 📌 &nbsp; CSS3/SCSS, Styled-components, Tailwind CSS, Material UI,
-- 📌 &nbsp; Webpack, Github, Gitlab,
+---
+
+#### Technical Skills:
+- 🧑🏻‍💻 &nbsp; Micro-frontend Application, &nbsp; Web Application, &nbsp; Mobile Application, &nbsp; Application Development.
+- 📌 &nbsp; JavaScript & TypeScript, &nbsp; React.js (Next.js / Remix), &nbsp; Redux, Redux-toolkit, React Query, &nbsp; MongoDB & SQL, &nbsp; Node.js, Nest.js, &nbsp; CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, &nbsp; Webpack, Github, Gitlab,
 
 ---
 
