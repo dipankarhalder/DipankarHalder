@@ -3,14 +3,37 @@
 
 #### A little bit about me:
 
-**Software Engineer** 6+ years of experience in Web application development. Mostly I love to work with Micro-frontend, JavaScript/TypeScript, React.js (Next.js/Remix), Redux, Redux-toolkit, Webpack, Node.js, MongoDB, SQL, AWS, GitHub, Heroku, CSS3/SCSS, Styled-components, Bootstrap, Tailwind CSS, Material UI, HTML5 etc...
-<br/>
-<br/>
-<summary>Overview:</summary>
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&count_icons=true">
-</p>
+- 🔭 &nbsp; Software Engineer 6+ years of experience.
+- 🔭 &nbsp; Sr. Software Engineer at Mindtree Ltd.
+- 🔭 &nbsp; Also currently try to learn machine learning with JavaScript.
+- 🏗 &nbsp; MERN stack is my main skills, but I'm always growing.
+- 👨‍💻 &nbsp; Learning TypeScript and Remix, plus exploring Python.
+- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-h-72001bb0/).
+- 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
+
+---
+
+#### Technical Skills:
+- 🧑🏻‍💻 &nbsp; Micro-frontend Application,
+- 🧑🏻‍💻 &nbsp; Web Application,
+- 🧑🏻‍💻 &nbsp; Mobile Application,
+- 🧑🏻‍💻 &nbsp; Application Development,
+
+- 📌 &nbsp; JavaScript & TypeScript,
+- 📌 &nbsp; React.js (Next.js / Remix),
+- 📌 &nbsp; Redux, Redux-toolkit, React Query, 
+- 📌 &nbsp; MongoDB & SQL,
+- 📌 &nbsp; Node.js, Nest.js,
+- 📌 &nbsp; CSS3/SCSS, Styled-components, Tailwind CSS, Material UI,
+- 📌 &nbsp; Webpack, Github, Gitlab,
+
+---
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
+
+---
+
+###### Thanks for stopping by!
 
 
 
