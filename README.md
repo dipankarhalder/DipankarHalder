@@ -3,7 +3,6 @@
 
 #### A little bit about me:
 
-- 🔭 &nbsp; Software Engineer 6+ years of experience.
 - 🔭 &nbsp; Sr. Software Engineer at Mindtree Ltd.
 - 🔭 &nbsp; Also currently try to learn machine learning with JavaScript.
 - 🏗 &nbsp; MERN stack is my main skills, but I'm always growing.
