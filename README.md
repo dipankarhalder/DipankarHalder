@@ -11,12 +11,11 @@
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
 
 ---
-
 #### Technical Skills:
-- 🧑🏻‍💻 &nbsp; Micro-frontend Application,
-- 🧑🏻‍💻 &nbsp; Web Application,
-- 🧑🏻‍💻 &nbsp; Mobile Application,
-- 🧑🏻‍💻 &nbsp; Application Development,
+- 🧑🏻‍💻 &nbsp; Micro-frontend Application.
+- 🧑🏻‍💻 &nbsp; Web Application.
+- 🧑🏻‍💻 &nbsp; Mobile Application.
+- 🧑🏻‍💻 &nbsp; Application Development.
 
 - 📌 &nbsp; JavaScript & TypeScript,
 - 📌 &nbsp; React.js (Next.js / Remix),
