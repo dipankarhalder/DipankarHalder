@@ -13,8 +13,8 @@
 ---
 
 #### Technical Skills:
-- 🧑🏻‍💻 &nbsp; Micro-frontend Application, &nbsp; Web Application, &nbsp; Mobile Application, &nbsp; Application Development.
-- 📌 &nbsp;JavaScript & TypeScript, &nbsp; React.js (Next.js / Remix), &nbsp; Redux, Redux-toolkit, React Query, &nbsp; MongoDB & SQL, &nbsp; Node.js, Nest.js, &nbsp; CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, &nbsp; Webpack, Github, Gitlab,
+- 🧑🏻‍💻 Micro-frontend Application, Web Application, Mobile Application, Application Development.
+- 📌 JavaScript & TypeScript, React.js (Next.js / Remix), Redux, Redux-toolkit, React Query, MongoDB & SQL, Node.js, Nest.js, CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, Webpack, Github etc.
 
 ---
 
