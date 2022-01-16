@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dipankar Halder 👋</h1>
 <h3 align="center">MERN Stack Developer, in Bangalore, India</h3>
 
-#### A little bit about me:
+#### About me :
 
 - 🔭 &nbsp; Sr. Software Engineer at Mindtree Ltd.
 - 🔭 &nbsp; Also currently try to learn machine learning with JavaScript.
@@ -12,11 +12,15 @@
 
 ---
 
-#### Technical Skills:
+#### Overview :
 - Micro-frontend Application, 
 - Web Application, 
 - Mobile Application, 
 - Application Development.
+
+---
+
+#### Technical Skills :
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), 
 - Redux, Redux-toolkit, React Query, 
