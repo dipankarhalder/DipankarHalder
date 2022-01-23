@@ -7,7 +7,7 @@
 - 🔭 &nbsp; Also currently try to learn machine learning with JavaScript.
 - 🏗 &nbsp; MERN stack is my main skills, but I'm always growing.
 - 👨‍💻 &nbsp; Learning TypeScript and Remix, plus exploring Python.
-- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-h-72001bb0/).
+- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
 
 ---
