@@ -1,5 +1,6 @@
 <h1>Hi, I'm Dipankar Halder 👋</h1>
 <h3>MERN Stack Developer, in Bangalore, India</h3>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=REACT&logoColor=20232a&color=61dafb)
