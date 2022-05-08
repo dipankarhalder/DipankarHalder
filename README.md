@@ -1,30 +1,5 @@
 <h1>Hi, I'm Dipankar Halder 👋</h1>
 <h3>MERN Stack Developer, in Bangalore, India</h3>
-
-## About me :
-
-- 🔭 &nbsp; Software Engineer at Mindtree Ltd.
-- 🔭 &nbsp; Primary skills JavaScript & TypeScript (Node.js, Express.js, React.js, Angular).
-- 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
-
-## Contact :
-- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
-- 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
-
-## Overview :
-- Micro-frontend Application, 
-- Web Application, 
-- Mobile Application, 
-- Application Development.
-
-## Technologies and Tools :
-- JavaScript & TypeScript, 
-- React.js (Next.js / Remix), 
-- Redux, Redux-toolkit, React Query, 
-- MongoDB & SQL, 
-- Node.js, Nest.js, 
-- CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
-- Webpack, Github etc.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=REACT&logoColor=20232a&color=61dafb)
@@ -34,6 +9,31 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VISUALSTUDIOCODE&logoColor=white&color=0078d7)
+
+## About me :
+- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
+- 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
+
+- 🔭 &nbsp; Software Engineer at Mindtree Ltd.
+- 🔭 &nbsp; Primary skills JavaScript & TypeScript (Node.js, Express.js, React.js, Angular).
+- 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
+
+## Technologies and Tools :
+- Micro-frontend Application, 
+- Web Application, 
+- Mobile Application, 
+- Application Development.
+
+<br />
+
+- JavaScript & TypeScript, 
+- React.js (Next.js / Remix), Angular,
+- Redux, Redux-toolkit, React Query, React Table
+- MongoDB & MySQL, 
+- Node.js, Express.js, 
+- CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
+- Webpack, Github etc.
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
 
