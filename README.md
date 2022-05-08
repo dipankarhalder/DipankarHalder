@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VSCODE&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCODE&logoColor=white&color=0078d7)
 
 ## About me :
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
