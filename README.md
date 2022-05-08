@@ -11,10 +11,8 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCODE&logoColor=white&color=0078d7)
 
-## About me :
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
-
 - 🔭 &nbsp; Software Engineer at Mindtree Ltd.
 - 🔭 &nbsp; Primary skills JavaScript & TypeScript (Node.js, Express.js, React.js, Angular).
 - 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
