@@ -33,10 +33,8 @@
 - CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
 - Webpack, Github etc.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
-
-###### Thanks for stopping by!
 
 
 
