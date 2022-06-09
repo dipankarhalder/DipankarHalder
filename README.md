@@ -28,11 +28,11 @@
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
 - MongoDB & MySQL, 
-- Node.js, Express.js, 
+- Node.js, Express.js, Java, Python, 
 - CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
 - Webpack, Github etc.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
+<p width="400"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333"></p>
 
 
