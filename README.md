@@ -24,7 +24,6 @@
 - Application Development.
 
 <br />
-
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
@@ -34,6 +33,7 @@
 - Webpack, Github etc.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333"></p>
 
 
 
