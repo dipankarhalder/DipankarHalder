@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCODE&logoColor=white&color=0078d7)
 
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
@@ -30,7 +29,7 @@
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
 - Node.js, Express.js, Java, Python, 
-- CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
+- CSS3 / SCSS, Styled-components, Tailwind CSS, Material UI, 
 - MongoDB & MySQL, 
 - Webpack, Github etc.
 
