@@ -17,19 +17,19 @@
 - 🔭 &nbsp; Primary skills JavaScript & TypeScript (Node.js, Express.js, React.js, Angular).
 - 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
 
-## Technologies and Tools :
+<h3> Applications </h3>
 - Micro-frontend Application, 
 - Web Application, 
 - Mobile Application, 
 - Application Development.
-<br />
 
+<h3> Technologies </h3>
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
-- MongoDB & MySQL, 
 - Node.js, Express.js, Java, Python, 
 - CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
+- MongoDB & MySQL, 
 - Webpack, Github etc.
 
 
