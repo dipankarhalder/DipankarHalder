@@ -18,12 +18,14 @@
 - 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
 
 <h3> Applications </h3>
+
 - Micro-frontend Application, 
 - Web Application, 
 - Mobile Application, 
 - Application Development.
 
 <h3> Technologies </h3>
+
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
