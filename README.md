@@ -32,8 +32,8 @@
 - CSS3/SCSS, Styled-components, Tailwind CSS, Material UI, 
 - Webpack, Github etc.
 
-<p style="width: 400"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
-<p style="width: 400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333"></p>
+<p style="width: 400px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" /></p>
+<p style="width: 400px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333"></p>
 
 
 
