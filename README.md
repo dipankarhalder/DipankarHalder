@@ -22,8 +22,8 @@
 - Web Application, 
 - Mobile Application, 
 - Application Development.
-
 <br />
+
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), Angular,
 - Redux, Redux-toolkit, React Query, React Table
