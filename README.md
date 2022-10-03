@@ -1,5 +1,5 @@
-<h1>Hi, I'm Dipankar Halder 👋</h1>
-<h3>MERN Stack Developer, in Bangalore, India</h3>
+<h1>Hi, I'm Dipankar 👋</h1>
+<h3>Software Engineer, in Bangalore, India</h3>
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
@@ -13,7 +13,7 @@
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
 - 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
 - 🔭 &nbsp; Software Engineer at Mindtree Ltd.
-- 🔭 &nbsp; Primary skills JavaScript & TypeScript (Node.js, Express.js, React.js, Angular).
+- 🔭 &nbsp; Primary skills JavaScript & TypeScript (React.js & Redux), Python (Django).
 - 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
 
 <h3> Applications </h3>
@@ -27,9 +27,9 @@
 
 - JavaScript & TypeScript, 
 - React.js (Next.js / Remix), Angular,
-- Redux, Redux-toolkit, React Query, React Table
-- Node.js, Express.js, Java, Python, 
-- CSS3 / SCSS, Styled-components, Tailwind CSS, Material UI, 
+- Redux, Redux-toolkit, Mobx, 
+- Node.js (Express.js), C++, Java, Python, 
+- CSS3 / SCSS, Styled-Components, Tailwind CSS, Material UI, 
 - MongoDB & MySQL, 
 - Webpack, Github etc.
 
