@@ -34,10 +34,4 @@
 - Webpack, Github etc.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true" alt="Dipankar's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&layout=compact&bg_color=ffffff&text_color=333333">
-
-
-
-
 
