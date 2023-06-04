@@ -1,5 +1,20 @@
-<h1>Hi, I'm Dipankar 👋</h1>
-<h3>Software Engineer, in Bangalore, India</h3>
+<h1 align="center">Hey 😉, I'm Dipankar</h1>
+<h3 align="center">Full Stack Developer, in Bangalore, India</h3>
+
+- 🔭 I’m currently working on **React, Node.js, Express.js, MySQL, MongoDB and React Native**
+
+- 🌱 I’m currently learning **Data Structures & Algorithms and System Design with Java and Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DipankarHalder?tab=repositories](https://github.com/DipankarHalder?tab=repositories)
+
+- 💬 Ask me about **anything !!**
+
+- 📫 How to reach me **[webmail.dip@gmail.com](mailto:webmail.dip@gmail.com)**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
+
+
+<h3> Languages and Tools </h3>
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
@@ -10,11 +25,6 @@
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
 
-- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/dipankar-halder/).
-- 📫 &nbsp; Email: [webmail.dip@gmail.com](mailto:webmail.dip@gmail.com).
-- 🔭 &nbsp; Software Engineer at Mindtree Ltd.
-- 🔭 &nbsp; Primary skills JavaScript & TypeScript (React.js & Redux), Python (Django).
-- 👨‍💻 &nbsp; Trying to exploring C++, Python and Java.
 
 <h3> Applications </h3>
 
@@ -33,5 +43,7 @@
 - MongoDB & MySQL, 
 - Webpack, Github etc.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
 
