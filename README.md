@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything !!**
 
-- 📫 How to reach me **[webmail.dip@gmail.com](mailto:webmail.dip@gmail.com)**
+- 📫 How to reach me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
