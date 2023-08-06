@@ -2,15 +2,10 @@
 <h3 align="center">Full Stack Developer, in Bangalore, India</h3>
 
 - 🔭 I’m currently working on **React, Node.js, Express.js, MySQL, MongoDB and React Native**
-
 - 🌱 I’m currently learning **Data Structures & Algorithms and System Design with Java and Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DipankarHalder?tab=repositories](https://github.com/DipankarHalder?tab=repositories)
-
 - 💬 Ask me about **anything !!**
-
 - 📫 How to reach me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
