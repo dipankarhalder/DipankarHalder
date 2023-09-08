@@ -42,7 +42,7 @@
 - MongoDB & MySQL, 
 - Webpack, Github etc.
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
