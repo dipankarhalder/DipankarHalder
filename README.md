@@ -1,8 +1,8 @@
 <h1>Hey 😉, I'm Dipankar</h1>
 <h3>Full Stack Developer, in Bangalore, India</h3>
 
-- 🔭 I’m currently working on **React, Node.js, Express.js, MySQL, MongoDB and React Native**
-- 🌱 I’m currently learning **Data Structures & Algorithms and System Design with Java and Python**
+- 🔭 I’m currently working on **React.js, Node.js, Express.js, MySQL, MongoDB and React Native**
+- 🌱 I’m currently learning **Data Structures & Algorithms with Java and Python and System Design**
 - 👨‍💻 All of my projects are available at [https://github.com/DipankarHalder?tab=repositories](https://github.com/DipankarHalder?tab=repositories)
 - 💬 Ask me about **anything !!**
 - 📫 How to reach me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
@@ -47,3 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://komarev.com/ghpvc/?username=DipankarHalder)
