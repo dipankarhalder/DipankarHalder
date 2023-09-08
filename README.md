@@ -26,12 +26,11 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
 
 
-<h3> Applications </h3>
+<h3> Mostly Developed Applications </h3>
 
 - Micro-frontend Application, 
 - Web Application, 
-- Mobile Application, 
-- Application Development.
+- Product Application Development.
 
 <h3> Technologies </h3>
 
