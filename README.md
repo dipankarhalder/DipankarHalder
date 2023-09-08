@@ -1,5 +1,5 @@
-<h1 align="center">Hey 😉, I'm Dipankar</h1>
-<h3 align="center">Full Stack Developer, in Bangalore, India</h3>
+<h1>Hey 😉, I'm Dipankar</h1>
+<h3>Full Stack Developer, in Bangalore, India</h3>
 
 - 🔭 I’m currently working on **React, Node.js, Express.js, MySQL, MongoDB and React Native**
 - 🌱 I’m currently learning **Data Structures & Algorithms and System Design with Java and Python**
@@ -15,10 +15,10 @@
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=000000&color=61dafb)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=ANGULAR&logoColor=white&color=d4173b)
-![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
-![](https://img.shields.io/badge/express.js-informational?style=flat&logo=express&logoColor=white&color=8c8c8c)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=8c8c8c)
 <br>
-![](https://img.shields.io/badge/mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
+![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
