@@ -15,10 +15,12 @@
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=000000&color=61dafb)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=ANGULAR&logoColor=white&color=d4173b)
+<br>
 ![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
 ![](https://img.shields.io/badge/express.js-informational?style=flat&logo=express&logoColor=white&color=8c8c8c)
 ![](https://img.shields.io/badge/mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
+<br>
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=JAVA&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=PYTHON&logoColor=white&color=0d1c4d)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34c26)
