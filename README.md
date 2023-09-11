@@ -1,11 +1,11 @@
 <h1>Hey 😉, I'm Dipankar</h1>
 <h3>Full Stack Developer, in Bangalore, India</h3>
 
-- 🔭 I’m currently working on **React.js, Node.js, Express.js, MySQL, MongoDB and React Native**
-- 🌱 I’m currently learning **Data Structures & Algorithms with Java and Python and System Design**
+- 🔭 I’m currently working on **JavaScript (TypeScript), Java, Python, MySQL and MongoDB**
+- 🔭 Library and framework **React.js, Next.js, Node.js, Express.js and Django**
+- 🌱 Currently learning **Data Structures & Algorithms with Java, System Design (HLD and LLD) and Design Pattern**
 - 👨‍💻 All of my projects are available at [https://github.com/DipankarHalder?tab=repositories](https://github.com/DipankarHalder?tab=repositories)
-- 💬 Ask me about **anything !!**
-- 📫 How to reach me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
+- 📫 How to reach me **[webmail.dip@gmail.com](mailto:webmail.dip@gmail.com)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
@@ -28,19 +28,18 @@
 
 <h3> Mostly Developed Applications </h3>
 
-- Micro-frontend Application, 
+- Micro-frontend Application,
+- Microservices,
 - Web Application, 
-- Product Application Development.
+- Product Application Development,
 
 <h3> Technologies </h3>
 
-- JavaScript & TypeScript, 
-- React.js (Next.js / Remix), Angular,
+- JavaScript (TypeScript), Java, Python,
+- React.js (Next.js / Remix.js), Angular, Node.js (Express.js),
 - Redux, Redux-toolkit, Mobx, 
-- Node.js (Express.js), C++, Java, Python, 
-- CSS3 / SCSS, Styled-Components, Tailwind CSS, Material UI, 
-- MongoDB & MySQL, 
-- Webpack, Github etc.
+- CSS3 (SCSS), Styled-Components, Tailwind CSS, 
+- MySQL & MongoDB, Github etc.
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
