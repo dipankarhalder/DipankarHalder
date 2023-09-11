@@ -28,10 +28,8 @@
 
 <h3> Mostly Developed Applications </h3>
 
-- Micro-frontend Application,
-- Microservices,
-- Web Application, 
-- Product Application Development,
+- Micro-frontend & Microservices,
+- Web Application & Product Application Development,
 
 <h3> Technologies </h3>
 
