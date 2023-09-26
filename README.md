@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=ffffff&color=32b5d8)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=ffffff&color=16abed)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
 ![](https://img.shields.io/badge/SASS-informational?style=flat&logo=SASS&logoColor=ffffff&color=c76494)
+![](https://img.shields.io/badge/github-informational?style=flat&logo=github&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=19adb3)
 
 
 <h3>Most application developed with:</h3>
