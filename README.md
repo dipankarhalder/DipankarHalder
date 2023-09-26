@@ -16,7 +16,8 @@
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
-![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=8c8c8c)
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=7e7e7e)
+<br />
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34c26)
