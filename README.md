@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=SASS&logoColor=ffffff&color=c76494)
 
 
 <h3>Most application developed with:</h3>
