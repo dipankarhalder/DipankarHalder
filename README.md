@@ -12,7 +12,9 @@
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=000000&color=61dafb)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=ffffff&color=61dafb)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
 ![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=8c8c8c)
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
