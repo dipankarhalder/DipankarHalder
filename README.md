@@ -27,10 +27,9 @@
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=19adb3)
 
 
-<h3>Most application developed with:</h3>
+<h3>Most applications developed with:</h3>
 
-- FrontEnd Development,
-- Micro-frontend Development,
+- FrontEnd (Micro-FrontEnd) Development,
 - Product Application Development,
 - JavaScript & TypeScript, React.js, Next.js, Remix.js,
 - Redux, Redux-toolkit, Mobx, Node.js, Express.js,
