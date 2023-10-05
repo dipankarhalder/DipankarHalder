@@ -1,10 +1,10 @@
 <h1>Hi👋🏻, I'm Dipankar</h1>
 <h3>A passionate FrontEnd Engineer, in Bangalore, India</h3>
 
-- 🔭 I’m working as **Senior FrontEnd Engineer**
+- 🔭 I’m working as **Senior FrontEnd/UI Engineer**
 - 🔭 I’m currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, MySQL and MongoDB**
-- 🌱 Currently learning **Data Structures & Algorithms, System Design and Design Pattern**
-- 📫 Reach to me **[webmail.dip@gmail.com](mailto:webmail.dip@gmail.com)**
+- 🌱 knowledge in **Data Structures & Algorithms, System Design and Design Pattern**
+- 📫 Reach to me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
