@@ -4,7 +4,7 @@
 - 🔭 working as **Senior FrontEnd/UI Engineer**
 - 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, MySQL and MongoDB**
 - 🌱 knowledge in **Data Structures & Algorithms, System Design and Design Pattern**
-- 📫 Reach to me **[halderdip.dev@gmail.com](mailto:halderdip.dev@gmail.com)**
+- 📫 Reach to me **[dipankarhalder.dev@gmail.com](mailto:dipankarhalder.dev@gmail.com)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
