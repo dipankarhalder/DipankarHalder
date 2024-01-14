@@ -1,8 +1,8 @@
 <h1>Hi👋🏻, I'm Dipankar</h1>
 <h3>A passionate FrontEnd Engineer, in Bangalore, India</h3>
 
-- 🔭 working as **Senior FrontEnd/UI Engineer**
-- 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, MySQL and MongoDB**
+- 🔭 working as **Senior FrontEnd Engineer**
+- 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
 - 🌱 knowledge in **Data Structures & Algorithms, System Design and Design Pattern**
 - 📫 Reach to me **[dipankarhalder.dev@gmail.com](mailto:dipankarhalder.dev@gmail.com)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
@@ -29,12 +29,12 @@
 
 <h3>Most applications developed with:</h3>
 
-- FrontEnd (Micro-FrontEnd) Development,
-- Product Application Development,
-- JavaScript & TypeScript, React.js, Next.js, Remix.js,
-- Redux, Redux-toolkit, Mobx, Node.js, Express.js,
+- Micro-FrontEnd, Microservices, Problem Solving,
+- JavaScript, TypeScript, React.js, Next.js, Remix.js, Angular,
+- Redux, Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
+- Node.js, Express.js, Nust.js, Python,
 - CSS3, SCSS, Styled-Components, Tailwind CSS, 
-- MySQL, MongoDB, Github etc.
+- MySQL, MongoDB, Github, Postman, VS Code etc.
 
 <h3>My GitHub stats and Trophies:</h3>
 
