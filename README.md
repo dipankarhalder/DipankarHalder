@@ -21,7 +21,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=redux)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-0A1A2F?style=flat&logo=express.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-0A1A2F?style=flat&logo=express)
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
