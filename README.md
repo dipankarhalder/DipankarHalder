@@ -1,6 +1,6 @@
 <h1>Hi👋🏻, I'm Dipankar</h1>
 <h3>A passionate Sr. Frontend Engineer, in Bangalore, India 🇮🇳</h3>
-<br />
+
 - 🔭 working as **Sr. FrontEnd Engineer**
 - 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
 - 🌱 knowledge in **Data Structures & Algorithms, Frontend System Design and Design Pattern**
@@ -9,7 +9,7 @@
 
 
 <h3>🛠 &nbsp;Tech Stack:</h3>
-<br />
+
 - 🎯 &nbsp;Language:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typeScript)
@@ -37,14 +37,14 @@
 
 
 <h3>...and others</h3>
-<br />
+
 - Micro-FrontEnd, Microservices, Problem Solving,
 - Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
 - HTML5, CSS3, SCSS, Styled-Components, Tailwind CSS, 
 
 
 <h3>My GitHub stats and Trophies:</h3>
-<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DipankarHalder" /></p>
