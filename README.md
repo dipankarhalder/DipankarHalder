@@ -1,45 +1,50 @@
 <h1>Hi👋🏻, I'm Dipankar</h1>
-<h3>A passionate FrontEnd Engineer, in Bangalore, India</h3>
-
-- 🔭 working as **Senior FrontEnd Engineer**
+<h3>A passionate Sr. Frontend Engineer, in Bangalore, India 🇮🇳</h3>
+<br />
+- 🔭 working as **Sr. FrontEnd Engineer**
 - 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
-- 🌱 knowledge in **Data Structures & Algorithms, System Design and Design Pattern**
+- 🌱 knowledge in **Data Structures & Algorithms, Frontend System Design and Design Pattern**
 - 📫 Reach to me **[dipankarhalder.dev@gmail.com](mailto:dipankarhalder.dev@gmail.com)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
-<h3>Tools and Technologies:</h3>
-
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=000000&color=FFFF00)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=REACT&logoColor=ffffff&color=16abed)
-![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6DA55F)
-![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=7e7e7e)
+<h3>🛠 &nbsp;Tech Stack:</h3>
 <br />
-![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34c26)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=0074d9)
-![](https://img.shields.io/badge/SASS-informational?style=flat&logo=SASS&logoColor=ffffff&color=c76494)
-![](https://img.shields.io/badge/github-informational?style=flat&logo=github&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=19adb3)
+- 🎯 &nbsp;Language:&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typeScript)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+- 🖥️ &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+  ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular)
+  ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=redux)
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-0A1A2F?style=flat&logo=express.js)
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman)
+  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
 
 
-<h3>Most applications developed with:</h3>
-
+<h3>...and others</h3>
+<br />
 - Micro-FrontEnd, Microservices, Problem Solving,
-- JavaScript, TypeScript, React.js, Next.js, Remix.js, Angular,
-- Redux, Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
-- Node.js, Express.js, Nust.js, Python,
-- CSS3, SCSS, Styled-Components, Tailwind CSS, 
-- MySQL, MongoDB, Github, Postman, VS Code etc.
+- Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
+- HTML5, CSS3, SCSS, Styled-Components, Tailwind CSS, 
+
 
 <h3>My GitHub stats and Trophies:</h3>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DipankarHalder" /></p>
