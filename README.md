@@ -1,5 +1,5 @@
-<h1>Hi👋🏻, I'm Dipankar</h1>
-<h3>A passionate Sr. Frontend Engineer, in Bangalore, India 🇮🇳</h3>
+<h2>Hi👋🏻, I'm Dipankar</h2>
+<h4>A passionate Sr. Frontend Engineer, in Bangalore, India 🇮🇳</h4>
 
 - 🔭 working as **Sr. FrontEnd Engineer**
 - 🔭 currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
-<h3>🛠 &nbsp;Tech Stack:</h3>
+<h4>🛠 &nbsp;Tech Stack:</h4>
 
 - 🎯 &nbsp;Language:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javaScript)
@@ -36,14 +36,14 @@
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
 
 
-<h3>...and others</h3>
+<h4>...and others</h4>
 
 - Micro-FrontEnd, Microservices, Problem Solving,
 - Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
 - HTML5, CSS3, SCSS, Styled-Components, Tailwind CSS, 
 
 
-<h3>My GitHub stats and Trophies:</h3>
+<h4>My GitHub stats and Trophies:</h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
