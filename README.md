@@ -4,7 +4,7 @@
 - ✨ working as **Sr. FrontEnd Engineer**
 - ✨ currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
 - ✨ knowledge in **Data Structures & Algorithms, Frontend System Design and Design Pattern**
-- ✨ Reach to me **[dipankarhalder.dev@gmail.com](mailto:dipankarhalder.dev@gmail.com)**
+- ✨ Reach to me **[dipankarh.dev@gmail.com](mailto:dipankarh.dev@gmail.com)**
 - ✨ Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
 
 
