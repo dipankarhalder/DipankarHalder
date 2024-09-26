@@ -3,11 +3,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankarhalder" alt="piyushgarg-dev" /></a> </p>
 
 
-- ✨ working as **Sr. FrontEnd Engineer**
-- ✨ currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
-- ✨ knowledge in **Data Structures & Algorithms, Frontend System Design and Design Pattern**
-- ✨ Reach to me **[dipankarh.dev@gmail.com](mailto:dipankarh.dev@gmail.com)**
-- ✨ Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
+- 🧑🏻‍💻 I’m currently working as **Software Engineer**
+- ⛳️ knowledge in **Data Structures & Algorithms and System Design**
+- 💬 Ask me about on **Java, React.js, Next.js, Node.js, MySQL and MongoDB**
+- 📨 Reach to me **[dipankarh.dev@gmail.com](mailto:dipankarh.dev@gmail.com)**
+- 🎯 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
+- 🌱 I’m currently learning Amazon Web Services
 
 
 <h4>🛠 &nbsp;Tech Stack:</h4>
