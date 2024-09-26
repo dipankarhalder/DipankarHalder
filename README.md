@@ -1,6 +1,6 @@
 <h2>Hi👋🏻, I'm Dipankar</h2>
 <h4>A passionate Software Engineer from Bangalore, India 🇮🇳</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgarg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankarhalder" alt="piyushgarg-dev" /></a> </p>
 
 
 - ✨ working as **Sr. FrontEnd Engineer**
