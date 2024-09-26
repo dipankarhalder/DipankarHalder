@@ -42,8 +42,8 @@
 <h4>...and others</h4>
 
 - Micro-frontEnd, Microservices, React Design Pattern, Problem Solving,
-- Redux-toolkit, Mobx, React Query, NextAuth, Zustand,
-- Styled-Components, Tailwind CSS, 
+- Redux-toolkit, Mobx, React Query, NextAuth, Zustand, Express.js, Nest.js,
+- Styled-Components, Tailwind CSS, Shadcn UI, Radix UI,
 
 
 <h4>My GitHub stats and Trophies:</h4>
