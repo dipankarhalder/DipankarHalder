@@ -1,5 +1,7 @@
 <h2>Hi👋🏻, I'm Dipankar</h2>
-<h4>A passionate Sr. Frontend Engineer, in Bangalore, India 🇮🇳</h4>
+<h4>A passionate Software Engineer from Bangalore, India 🇮🇳</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgarg-dev&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
+
 
 - ✨ working as **Sr. FrontEnd Engineer**
 - ✨ currently working on **JavaScript, TypeScript, React.js, Next.js, Node.js, Redis, MySQL and MongoDB**
