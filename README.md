@@ -7,7 +7,7 @@
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
 - 💬 Ask me about on **Java, React.js, Next.js, Node.js, MySQL and MongoDB**
 - 📨 Reach to me **[dipankarh.dev@gmail.com](mailto:dipankarh.dev@gmail.com)**
-- 🎯 Know about my experiences [https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)
+- 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 I’m currently learning Amazon Web Services
 
 
