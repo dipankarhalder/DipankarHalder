@@ -4,7 +4,7 @@
 - 🧑🏻‍💻 I’m currently working as **Software Engineer**
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
 - 💬 Ask me about on **Java, React.js, Next.js, Node.js, MySQL and MongoDB**
-- 📨 Reach to me **[dipankarh.dev@gmail.com](mailto:dipankarh.dev@gmail.com)**
+- 📨 Reach to me **[s.dipankarhalder@gmail.com](mailto:s.dipankarhalder@gmail.com)**
 - 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)** and **Docker**
 
@@ -38,7 +38,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 <br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankarhalder" alt="piyushgarg-dev" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankarhalder" alt="piyushgarg-dev" /></a> </p>*/
 
 <h4>...and others</h4>
 
