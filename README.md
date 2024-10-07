@@ -1,5 +1,5 @@
 <h2>Hi👋🏻, I'm Dipankar</h2>
-<h4>A passionate Software Engineer from Bangalore, India 🇮🇳</h4>
+<h4>A passionate Sr. Frontend Engineer from Bangalore, India 🇮🇳</h4>
 
 - 🧑🏻‍💻 I’m currently working as **Software Engineer**
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
