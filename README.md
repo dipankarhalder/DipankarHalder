@@ -1,7 +1,7 @@
 <h2>Hi👋🏻, I'm Dipankar</h2>
 <h4>A passionate Sr. Frontend Engineer from Bangalore, India 🇮🇳</h4>
 
-- 🧑🏻‍💻 I’m currently working as **Software Engineer**
+- 🧑🏻‍💻 I’m currently working as **Sr. Frontend Engineer**
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
 - 💬 Ask me about on **React.js, Next.js, Node.js, MySQL and MongoDB**
 - 📨 Reach to me **[s.dipankarhalder@gmail.com](mailto:s.dipankarhalder@gmail.com)**
