@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 I’m currently working as **Software Engineer**
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
-- 💬 Ask me about on **Java, React.js, Next.js, Node.js, MySQL and MongoDB**
+- 💬 Ask me about on **React.js, Next.js, Node.js, MySQL and MongoDB**
 - 📨 Reach to me **[s.dipankarhalder@gmail.com](mailto:s.dipankarhalder@gmail.com)**
 - 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)** and **Docker**
@@ -12,7 +12,6 @@
 <h4>🛠 &nbsp;Tech Stack:</h4>
 
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
