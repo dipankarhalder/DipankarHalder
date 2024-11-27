@@ -36,7 +36,7 @@
 <h4>...and others</h4>
 
 - **Micro-frontEnd**, **Microservices**,
-- Redux-toolkit, Mobx & Flux, Zustand - (State Management)
+- Redux-toolkit, MobX & Flux, Zustand, React Context,
 - Axios, SWR, React Query and Table, NextAuth, Webpack, Nest.js,
 - Styled-Components, Tailwind CSS, Shadcn UI, Radix UI,
 
