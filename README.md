@@ -2,8 +2,8 @@
 <h4>A passionate Sr. Frontend Engineer from Bangalore, India 🇮🇳</h4>
 
 - 🧑🏻‍💻 I’m currently working as **Sr. Frontend Engineer**
-- ⛳️ knowledge in **Data Structures & Algorithms and System Design**
-- 💬 Ask me about on **React.js, Next.js, React Native, Node.js, Express.js, MySQL and MongoDB**
+- ⛳️ Knowledge in **Data Structures & Algorithms, System Design, React Design Pattern and Problem Solving**
+- 💬 Ask me about **React.js, Next.js, React Native, Node.js, Express.js, MySQL and MongoDB**
 - 📨 Reach to me **[dipankar.appdev@gmail.com](mailto:dipankar.appdev@gmail.com)**
 - 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)** and **Docker**
@@ -35,8 +35,9 @@
 
 <h4>...and others</h4>
 
-- Micro-frontEnd, Microservices, React Design Pattern, Problem Solving,
-- Redux-toolkit, Mobx, React Query, NextAuth, Zustand, Express.js, Nest.js,
+- **Micro-frontEnd**, **Microservices**,
+- Redux-toolkit, Mobx & Flux, Zustand - (State Management)
+- Axios, SWR, React Query and Table, NextAuth, Webpack, Nest.js,
 - Styled-Components, Tailwind CSS, Shadcn UI, Radix UI,
 
 
