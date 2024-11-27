@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 I’m currently working as **Sr. Frontend Engineer**
 - ⛳️ knowledge in **Data Structures & Algorithms and System Design**
-- 💬 Ask me about on **React.js, Next.js, React Native, Node.js, MySQL and MongoDB**
+- 💬 Ask me about on **React.js, Next.js, React Native, Node.js, Express.js, MySQL and MongoDB**
 - 📨 Reach to me **[dipankar.appdev@gmail.com](mailto:dipankar.appdev@gmail.com)**
 - 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)** and **Docker**
