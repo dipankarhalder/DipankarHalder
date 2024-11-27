@@ -42,6 +42,6 @@
 
 <h4>My GitHub stats and Trophies:</h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DipankarHalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarHalder&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DipankarHalder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankarhalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankarhalder&" alt="DipankarHalder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarhalder&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="DipankarHalder" /></p>
