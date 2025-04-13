@@ -1,14 +1,14 @@
 <h2>Hi👋🏻, I'm Dipankar</h2>
-<h4>A passionate Sr. Frontend Engineer from Bangalore, India 🇮🇳</h4>
+<h4>A passionate and results-driven Senior Frontend Developer from Bangalore, India 🇮🇳</h4>
 
-- 🧑🏻‍💻 Currently working as **Sr. Frontend Engineer**
+- 🧑🏻‍💻 Currently working as **Sr. Frontend Developer**
 - ⛳️ Knowledge in **Data Structures & Algorithms, System Design, React Design Pattern and Problem Solving**
-- 💬 Ask me about **React.js, Next.js, React Native, Node.js, Express.js, MySQL and MongoDB**
+- 💬 Ask me about **React.js, Next.js, Remix.js, React Native, Node.js, Express.js, MySQL and MongoDB**
 - 📨 Reach to me **[dipankar.appdev@gmail.com](mailto:dipankar.appdev@gmail.com)**
 - 🎯 Know about my experiences **[https://www.linkedin.com/in/dipankar-halder/](https://www.linkedin.com/in/dipankar-halder/)**
 - 🌱 Currently learning **Amazon Web Services (AWS)** and **Docker**
 
-<h4>🛠 &nbsp;Tech Stack:</h4>
+<h4>🎯 &nbsp;Tech Stack:</h4>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -30,9 +30,9 @@
 <h4>...and others</h4>
 
 - **Micro-frontend**, **Microservices**,
-- Redux-toolkit, MobX & Flux, Zustand, React Context,
-- Axios, SWR, React Query and Table, NextAuth, Webpack, Nest.js,
-- Styled-Components, Tailwind CSS, Shadcn UI, Radix UI,
+- Redux, MobX, Zustand, React context, React query and React table,
+- Axios, SWR, NextAuth, Webpack, Jest, React testing library, 
+- Styled-components, Tailwind CSS, Shadcn UI, Radix UI, HTML5, CSS3, SCSS
 
-<h4>🛴 GitHub Stats & Trophies:</h4>
+<h4>🎯 GitHub Stats & Trophies:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarhalder&hide_border=false&include_all_commits=false&card_width=466&count_private=false&layout=compact" alt="DipankarHalder" /></p>
