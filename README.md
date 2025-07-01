@@ -36,7 +36,4 @@
 
 <h4>🎯 GitHub Status:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarhalder&hide_border=false&include_all_commits=false&card_width=466&count_private=false&layout=compact" alt="DipankarHalder" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dipankarhalder&show_icons=true&locale=en" alt="DipankarHalder" /></p>
-<br /><br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarhalder&hide_border=false&include_all_commits=false&card_width=466&count_private=false&layout=compact" alt="DipankarHalder" /></p>
