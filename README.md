@@ -34,5 +34,6 @@
 - Axios, SWR, NextAuth, Webpack, Jest, React testing library, 
 - Styled-components, Tailwind CSS, Shadcn UI, Radix UI, HTML5, CSS3, SCSS
 
-<h4>🎯 GitHub Stats & Trophies:</h4>
+<h4>🎯 GitHub Status:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarhalder&hide_border=false&include_all_commits=false&card_width=466&count_private=false&layout=compact" alt="DipankarHalder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipankarHalder&" alt="DipankarHalder" /></p>
